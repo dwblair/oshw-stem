@@ -1,0 +1,43 @@
+% Open Hardware
+% Name
+% Date
+
+What is it good for?
+-----------
+
+There are several things.
+
+- First
+- Second
+
+<img src="http://pvos.org/assets/pvosLogoSmall.png" width=300 border=0>
+
+Big Picture Slide
+----------
+<img src="http://pvos.org/assets/pvosLogoSmall.png" height=600 border=0>
+
+
+My first slide
+--------------------
+
+List
+
+* this 
+* is
+* cool
+
+Variables
+---------
+
+The following variables can be defined from the command line:
+
+* theme
+* transition
+
+```bash
+pandoc -t html5 --template=template-revealjs.html \
+	--standalone --section-divs \
+  --variable theme="beige" \
+  --variable transition="linear" \
+  slides.md -o slides.html
+```
