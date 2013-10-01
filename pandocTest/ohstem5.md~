@@ -25,6 +25,8 @@
 
 # Open Source Rules
 
+## 
+
 ## #1: Document thoroughly
 <a href="http://boydlogan.files.wordpress.com/2011/05/read-books-that-you-enjoy.jpg"><img src="assets/document.jpg" height="400"></a>
 
@@ -78,7 +80,8 @@
 - Technical skills & capacity
 - Finding a place in the curriculum
 - Physical facilities
-- [Rules regarding University patents](http://www.innovationexcellence.com/blog/2010/12/19/open-source-hardware-and-university-patents/)
+- [University patents](http://www.innovationexcellence.com/blog/2010/12/19/open-source-hardware-and-university-patents/)
+- Guidelines for tenure (cf. Anthropology)
 
 # [Infragram.org](http://infragram.org/)
 - Infrapix-flask and Github issues
@@ -93,7 +96,7 @@
 ## Single Processor
 
 - 32 kB memory
-- 16 MHz clock
+- 16 MHz
 
 ## One program
 
@@ -112,10 +115,6 @@
 
 <a href="http://cnn.com"><img src="http://blog.arduino.cc/wp-content/themes/arduinoWide/images/logo_blog_arduino.png" height=100 border=0></a> &nbsp; &nbsp; <a href="http://cnn.com"><img src="http://www.adafruit.com/includes/templates/adafruit/images/logo.gif" height=100 border=0></a> &nbsp; &nbsp; <a href="http://cnn.com"><img src="https://dlnmh9ip6v2uc.cloudfront.net/assets/c/c/c/2/4/5240baa2757b7f941d8b456f.png" height=100 border=0></a>
 
-## More tutorials
-
-<a href="http://cnn.com"><img src="http://blog.arduino.cc/wp-content/themes/arduinoWide/images/logo_blog_arduino.png" height=100 border=0></a> &nbsp; &nbsp; <a href="http://cnn.com"><img src="http://www.adafruit.com/includes/templates/adafruit/images/logo.gif" height=100 border=0></a> &nbsp; &nbsp; <a href="http://cnn.com"><img src="https://dlnmh9ip6v2uc.cloudfront.net/assets/c/c/c/2/4/5240baa2757b7f941d8b456f.png" height=100 border=0></a>
-
 # Raspberry Pi
 
 <a href="http://raspberrypi.org"><img src="assets/rpi.png" height=300></a>
@@ -123,7 +122,7 @@
 ## Single Processor
 
 - 512 MB memory
-- 700 MHz clock
+- 700 MHz
 - Can run 'full-fledged' operating system
 
 ## 
@@ -135,6 +134,12 @@
 ## Alternatives
 
 - [Beagle Bone](http://beagleboard.org/Products/BeagleBone%20Black)
+
+# 3D Printing
+
+- [Thingiverse](http://www.thingiverse.com/)
+- [Open Source Optics](http://www.appropedia.org/Category:Open_source_optics): [cost savings](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0059840) over 95%
+
 
 # Public Lab
 
@@ -161,12 +166,6 @@
 - Research Notes
 - Wiki
 - Google Group
-
-
-# 3D Printing
-
-- [Thingiverse](http://www.thingiverse.com/)
-- [Open Source Optics](http://www.appropedia.org/Category:Open_source_optics): [cost savings](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0059840) over 95%
 
 
 
