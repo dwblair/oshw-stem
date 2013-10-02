@@ -113,7 +113,7 @@
 
 ## Tutorials
 
-<a href="http://cnn.com"><img src="http://blog.arduino.cc/wp-content/themes/arduinoWide/images/logo_blog_arduino.png" height=100 border=0></a> &nbsp; &nbsp; <a href="http://cnn.com"><img src="http://www.adafruit.com/includes/templates/adafruit/images/logo.gif" height=100 border=0></a> &nbsp; &nbsp; <a href="http://cnn.com"><img src="https://dlnmh9ip6v2uc.cloudfront.net/assets/c/c/c/2/4/5240baa2757b7f941d8b456f.png" height=100 border=0></a>
+<a href="arduino.cc/en/Tutorial/"><img src="http://blog.arduino.cc/wp-content/themes/arduinoWide/images/logo_blog_arduino.png" height=100 border=0></a> &nbsp; &nbsp; <a href="http://www.ladyada.net/learn/arduino/"><img src="http://www.adafruit.com/includes/templates/adafruit/images/logo.gif" height=100 border=0></a> &nbsp; &nbsp; <a href="https://www.sparkfun.com/tutorials"><img src="https://dlnmh9ip6v2uc.cloudfront.net/assets/c/c/c/2/4/5240baa2757b7f941d8b456f.png" height=100 border=0></a>
 
 # Raspberry Pi
 
