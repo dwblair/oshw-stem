@@ -68,6 +68,7 @@
 -- [Inside Higher Ed, 2/23/12]( http://www.insidehighered.com/views/2012/02/23/essay-open-access-scholarship)
 
 ## PATENTS 
+<img src="assets/patents.png" height=300">
 
 ## STEM EDUCATION
 <img src="assets/pasco.jpg" height=300">
@@ -82,7 +83,7 @@
 - In [biomedicine](https://www.scienceexchange.com/reproducibility)
 
 # Open Science
-What would it look like?
+What might it look like?
 
 ##
 ## <a href="http://en.wikipedia.org/wiki/Wikipedia:Wikipedia_logos"><img height="200" align="middle" src="assets/wikipedia.png"></a> <a href="http://www.softaculous.com/blog/wp-content/uploads/2013/02/wordpress-logo-hoz-rgb.jpg"><img align="middle" height="200" src="assets/wordpress.jpg"></a> </br> <a href="http://blog.grio.com/wp-content/uploads/2012/09/stackoverflow.png"><img align="middle" height="200" src="assets/stackoverflow.png"></a>  <a href="https://github.global.ssl.fastly.net/images/modules/logos_page/Octocat.png"><img height="200" src="assets/octocat.png"></a>
