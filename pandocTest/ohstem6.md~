@@ -1,6 +1,6 @@
-% Open Science </br> & [Public Lab](http://publiclab.org)
+% Open Science </br> & Public Lab
 % or: How I learned to stop worrying </br> and love the open source.
-% Don Blair </br> 10/24/2013
+% [Don Blair](http://dwblair.github.io/) </br> 10/24/2013
 
 # 
 
@@ -26,6 +26,7 @@
 
 # Open Source Rules
 
+
 ## #1: Share
 <a href="http://homenaturally.org/tag/children/"><img height="400" src="assets/pasta.jpg"></a>
 
@@ -43,11 +44,11 @@
 
 # Examples
 
-## This presentation
-- HTML
-- Github
-- reveal.js
-- impress.js
+## [This presentation](https://raw.github.com/dwblair/oshw-stem/unh/pandocTest/ohstem6.md)
+- HTML -- 'view source' --> open source!
+- [Markdown](http://daringfireball.net/projects/markdown/)
+- [reveal.js](http://lab.hakim.se/reveal-js/#/)
+- [impress.js](http://bartaz.github.io/impress.js/#/bored)
 
 ## <a href="http://www.youtube.com/watch?v=8k5SxS7yCio&feature=player_detailpage#t=20"><img height="400" src="assets/balloonPrelaunch.png"></a>
 
@@ -135,56 +136,43 @@ A distributed community, made up of:
 <a href="http://publiclab.org/notes/cfastie/11-14-2012/lumcon-lawn"><img src="assets/lumconLawn.jpg"></a>
 
 # [DIY Spectrometer](http://publiclab.org/wiki/spectrometer)
-<img height="300" src="assets/spectrometer.jpeg">
 
-## Development
-## Giordi
-## 3D Printing
-## Detrivorism
-## Flare spectroscopy
+
+## <a href=""><img height="400" src="assets/specKit.png"></a>
+## <a href=""><img height="400" src="assets/specInstructions.png"></a>
+##<img height="400" src="assets/spectrometer.jpeg">
+## <a href="http://spectralworkbench.org"><img height="400" src="assets/spectralWorkbench.png"></br>spectralworkbench.org</a>
+## <a href=""><img height="400" src="assets/3dspec.jpg"></a>
+## <img height="400" src="assets/geordi.jpg">
+## <a href="http://unterbahn.com/2013/03/levar-burton-uses-a-public-lab-spectrometer-at-sxsw/"><img height="400" src="assets/burtonLooks.jpg"></a>
+## [<img height="400" src="assets/beetle.jpg"> </br> Detrivorism](http://www.pbs.org/idealab/2013/04/detritivore-design-how-to-use-trash-to-create-scalable-tech-solutions109/)
+## [<img height="400" src="assets/flareSpec.jpg"> </br> Flare spectroscopy](http://publiclab.org/notes/eustatic/07-31-2013/can-we-kick-it-yes-we-can-flickering-flare-signal)
 
 # [NIR Photography](http://publiclab.org/tag/near-infrared-camera)
-<img height="300" src="assets/nir.png">
 
-## FarmHack meetup
-- Evaluation of crop treatments
-- FarmHack tools wiki
+## <img height="400" src="assets/nir.png">
 
-## [WATERCHESTNUTS](http://publiclab.org/wiki/waterchestnuts)
-## Collaborative research
-## Infragram.js
-- Infrapix-flask and Github issues
+## [<img height="400" src="assets/crops.jpg"> </br> Agricultural mapping ](http://publiclab.org/notes/cfastie/10-29-2012/agricultural-trial-mapping)
+
+## [<img height="400" src="assets/lakewarner.png"> </br> WATERCHESTNUTS](http://publiclab.org/wiki/waterchestnuts)
+
+## [<img height="200" src="assets/river.jpg"></br> Infragram.org](http://infragram.org)
 - Google group [discussion](https://github.com/Pioneer-Valley-Open-Science/infrapix-flask/issues/5#issuecomment-22616452)
-- [Infragram-js](http://infragram.org/static/sandbox/)
-
+- [Infragram sandbox](http://infragram.org/static/sandbox/) and [infragram-js](https://github.com/bgamari/infragram-js)
 
 # [Thermal photography](http://publiclab.org/wiki/thermal-camera)
-<img height="300" src="assets/thermal.png">
 
-## Light painting
-## Thermal fishing bob
+## <img height="400" src="assets/thermalDiagram.png">
+
+## <img height="400" src="assets/lightPainting.gif"></br> Prototype
+
+## <img height="400" src="assets/thermal.png"> </br> Light painting
+
+## [<img height="400" src="assets/thermalBob.jpg"></br> Thermal fishing bob](http://publiclab.org/wiki/thermal-fishing-bob)
+... further developed at the [barnraising](http://publiclab.org/wiki/thermal-fishing-bob-barnraising)
 
 
-# Encouraging Openness
-- [GNU](http://www.gnu.org/philosophy/free-sw.html) and [Creative Commons](http://creativecommons.org/)
-- [CERN Open Hardware Licenses](http://www.ohwr.org/projects/cernohl/wiki)
-- [Unspoken rules](http://makezine.com/2012/02/14/soapbox-the-unspoken-rules-of-open-source-hardware/) and [cultural norms](http://publicknowledge.org/blog/open-source-hardware-and-law)
 
-# Open Source 'Wins':
-- [Apache](http://en.wikipedia.org/wiki/Apache_HTTP_Server)
-- [Wikipedia](http://www.wikipedia.org/)
-- [More citations](http://dx.doi.org/10.7717/peerj.175) when data is shared
-- [Adafruit](http://www.adafruit.com/) and [Sparkfun](https://www.sparkfun.com/)
-- [SciPy](http://www.scipy.org/)
-- [Arduino](http://arduino.cc/) and [Raspberry Pi](http://www.raspberrypi.org/)
-
-# Challenges
-- Online infrastructure (wiki, videos, dissemination)
-- Technical skills & capacity
-- Finding a place in the curriculum
-- Physical facilities
-- [University patents](http://www.innovationexcellence.com/blog/2010/12/19/open-source-hardware-and-university-patents/)
-- Guidelines for tenure (cf. Anthropology)
 
 # Arduino
 
@@ -214,7 +202,7 @@ A distributed community, made up of:
 
 # Raspberry Pi
 
-<a href="http://raspberrypi.org"><img src="assets/rpi.png" height=300></a>
+<a href="http://raspberrypi.org"><img src="assets/rpi.png" height=200></a>
 
 ## Single Processor
 
@@ -238,6 +226,26 @@ A distributed community, made up of:
 - [Open Source Optics](http://www.appropedia.org/Category:Open_source_optics): [cost savings](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0059840) over 95%
 
 
+# Encouraging Openness
+- [GNU](http://www.gnu.org/philosophy/free-sw.html) and [Creative Commons](http://creativecommons.org/)
+- [CERN Open Hardware Licenses](http://www.ohwr.org/projects/cernohl/wiki)
+- [Unspoken rules](http://makezine.com/2012/02/14/soapbox-the-unspoken-rules-of-open-source-hardware/) and [cultural norms](http://publicknowledge.org/blog/open-source-hardware-and-law)
+
+# Open Source 'Wins':
+- [Apache](http://en.wikipedia.org/wiki/Apache_HTTP_Server)
+- [Wikipedia](http://www.wikipedia.org/)
+- [More citations](http://dx.doi.org/10.7717/peerj.175) when data is shared
+- [Adafruit](http://www.adafruit.com/) and [Sparkfun](https://www.sparkfun.com/)
+- [SciPy](http://www.scipy.org/)
+- [Arduino](http://arduino.cc/) and [Raspberry Pi](http://www.raspberrypi.org/)
+
+# Challenges
+- Online infrastructure (wiki, videos, dissemination)
+- Technical skills & capacity
+- Finding a place in the curriculum
+- Physical facilities
+- [University patents](http://www.innovationexcellence.com/blog/2010/12/19/open-source-hardware-and-university-patents/)
+- Guidelines for tenure (cf. Anthropology)
 
 
 
