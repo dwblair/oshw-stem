@@ -34,9 +34,9 @@
 <a href="http://boydlogan.files.wordpress.com/2011/05/read-books-that-you-enjoy.jpg"><img src="assets/document.jpg" height="400"></a>
 
 ## #3: Distribute credit easily
-<a href=""><img src="http://www.trinityvalleykennelclub.org/sitebuildercontent/sitebuilderpictures/2007-jan---best-in-show.gif" height="400"></a>
+<a href=""><img src="assets/bestInShow.gif" height="400"></a>
 
-## #4: Default to collaboration
+## #4: Only fork when useful
 
 <a href="http://upload.wikimedia.org/wikipedia/en/thumb/b/b1/Turkishstarwarsposter.jpg/220px-Turkishstarwarsposter.jpg"><img height="400" src="assets/turkishStarWars2.jpg">
 </a> <a href="http://www.radiowork.com/?p=214"><img height="400" src="assets/turkishStarWars1.png">
@@ -60,7 +60,6 @@
 
 # Science: Too "Closed"
 
-## 
 ## Publishing
 
 > Some examples of how we might do more to influence campus behaviors include encouraging faculty members to retain enough rights in their published intellectual property that they can share it with colleagues and students, deposit it in open access repositories, and repurpose it for future research.
@@ -85,10 +84,10 @@
 # Open Science
 What might it look like?
 
-##
-## <a href="http://en.wikipedia.org/wiki/Wikipedia:Wikipedia_logos"><img height="200" align="middle" src="assets/wikipedia.png"></a> <a href="http://www.softaculous.com/blog/wp-content/uploads/2013/02/wordpress-logo-hoz-rgb.jpg"><img align="middle" height="200" src="assets/wordpress.jpg"></a> </br> <a href="http://blog.grio.com/wp-content/uploads/2012/09/stackoverflow.png"><img align="middle" height="200" src="assets/stackoverflow.png"></a>  <a href="https://github.global.ssl.fastly.net/images/modules/logos_page/Octocat.png"><img height="200" src="assets/octocat.png"></a>
-
 ## 
+<a href="http://en.wikipedia.org/wiki/Wikipedia:Wikipedia_logos"><img height="200" align="middle" src="assets/wikipedia.png"></a> <a href="http://www.softaculous.com/blog/wp-content/uploads/2013/02/wordpress-logo-hoz-rgb.jpg"><img align="middle" height="200" src="assets/wordpress.jpg"></a> </br> <a href="http://blog.grio.com/wp-content/uploads/2012/09/stackoverflow.png"><img align="middle" height="200" src="assets/stackoverflow.png"></a>  <a href="https://github.global.ssl.fastly.net/images/modules/logos_page/Octocat.png"><img height="200" src="assets/octocat.png"></a>
+
+## Values:
 - Sharing
 - Accessibility
 - Attribution
@@ -102,36 +101,43 @@ What might it look like?
 ``` "A community where you can learn how to investigate environmental concerns. Using inexpensive DIY techniques, we seek to change how people see the world in environmental, social, and political terms."
 ```
 
-## History: Gulf Oil Spill
-- Deep water horizon pic
-- Map
-- Kite and balloon mapping
-- Mapknitter.org
+## History
 
-## Structure
-A distributed community, made up of:
+- [Gulf Oil Spill](http://publiclab.org/wiki/gulf-coast)
+- [Kite and Balloon mapping](http://publiclab.org/wiki/balloon-mapping)
+- [Mapknitter.org](http://mapknitter.org)
+
+## Distributed research community
 
 - Citizens
 - Activists
 - Research scientists
 - Students
 
-## Open Source, DIY Tools
-- Kite and balloon mapping
-- DIY Spectrometer
-- Near infrared photography
-- Thermal flashlight
-
 ## Collaboration
-- Research notes w/ comments
-- Wikis w/ discussion
-- Research meetups
-- Barnraisings
+- [Research notes w/ comments](http://publiclab.org)
+- [Wikis w/ discussion](http://publiclab.org)
+- [Online forums and mailing lists](http://publiclab.org)
+- [In-person local area esearch meetups](http://publiclab.org)
+- [Barnraisings](http://civic.mit.edu/blog/kanarinka/report-from-the-public-lab-barnraising-2013)
+
+## Open Source, DIY Tools
+- [Kite and balloon mapping](http://publiclab.org/wiki/balloon-mapping)
+- [DIY Spectrometer](http://publiclab.org/wiki/spectrometer)
+- [Near infrared photography](http://publiclab.org/wiki/near-infrared-camera)
+- [Indoor air quality mapping](http://publiclab.org/wiki/roomba-indoor-air-quality-mapping)
+- [Thermal flashlight](http://publiclab.org/wiki/thermal-camera)
+- Also see: [FarmHack](http://farmhack.net)'s [Tools wiki](http://farmhack.net/tools)!
 
 # [DIY Aerial Imagery & Maps](http://publiclab.org/wiki/balloon-mapping)
 
 ##
-<a href="http://archive.publiclaboratory.org/download/Grassroots_Mapping_English_2_0.pdf"><img height="300" src="assets/kiteKit.png"></a> <a href="http://publiclab.org/map/lake-borgne-louisiana/2010-06-11"><img height="300" src="assets/lakeBorgne.jpg"></a>
+<a href="http://archive.publiclaboratory.org/download/Grassroots_Mapping_English_2_0.pdf"><img height="300" src="assets/kiteKit.png"></a> 
+
+## [<img height="140" src="assets/mapknitter.png"> mapknitter.org](http://mapknitter.org)
+
+## 
+<a href="http://publiclab.org/map/lake-borgne-louisiana/2010-06-11"><img height="300" src="assets/lakeBorgne.jpg"></a>
 
 ##
 <a href="http://publiclab.org/notes/cfastie/11-14-2012/lumcon-lawn"><img src="assets/lumconLawn.jpg"></a>
@@ -199,7 +205,7 @@ A distributed community, made up of:
 
 ## Tutorials
 
-<a href="arduino.cc/en/Tutorial/"><img src="http://blog.arduino.cc/wp-content/themes/arduinoWide/images/logo_blog_arduino.png" height=100 border=0></a> &nbsp; &nbsp; <a href="http://www.ladyada.net/learn/arduino/"><img src="http://www.adafruit.com/includes/templates/adafruit/images/logo.gif" height=100 border=0></a> &nbsp; &nbsp; <a href="https://www.sparkfun.com/tutorials"><img src="https://dlnmh9ip6v2uc.cloudfront.net/assets/c/c/c/2/4/5240baa2757b7f941d8b456f.png" height=100 border=0></a>
+<a href="arduino.cc/en/Tutorial/"><img src="assets/arduinoLogo.png" height=100 border=0></a> &nbsp; &nbsp; <a href="http://www.ladyada.net/learn/arduino/"><img src="assets/adafruitLogo.gif" height=100 border=0></a> &nbsp; &nbsp; <a href="https://www.sparkfun.com/tutorials"><img src="assets/sparkfunLogo.png" height=100 border=0></a>
 
 # Raspberry Pi
 
@@ -224,29 +230,40 @@ A distributed community, made up of:
 # 3D Printing
 
 - [Thingiverse](http://www.thingiverse.com/)
-- [Open Source Optics](http://www.appropedia.org/Category:Open_source_optics): [cost savings](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0059840) over 95%
+- Example: [Open Source Optics](http://www.appropedia.org/Category:Open_source_optics) with [cost savings](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0059840) of over 95%
 
 
 # Encouraging Openness
 - [GNU](http://www.gnu.org/philosophy/free-sw.html) and [Creative Commons](http://creativecommons.org/)
 - [CERN Open Hardware Licenses](http://www.ohwr.org/projects/cernohl/wiki)
 - [Unspoken rules](http://makezine.com/2012/02/14/soapbox-the-unspoken-rules-of-open-source-hardware/) and [cultural norms](http://publicknowledge.org/blog/open-source-hardware-and-law)
-
-# Open Source 'Wins':
-- [Apache](http://en.wikipedia.org/wiki/Apache_HTTP_Server)
-- [Wikipedia](http://www.wikipedia.org/)
 - [More citations](http://dx.doi.org/10.7717/peerj.175) when data is shared
-- [Adafruit](http://www.adafruit.com/) and [Sparkfun](https://www.sparkfun.com/)
-- [SciPy](http://www.scipy.org/)
-- [Arduino](http://arduino.cc/) and [Raspberry Pi](http://www.raspberrypi.org/)
 
 # Challenges
 - Online infrastructure (wiki, videos, dissemination)
 - Technical skills & capacity
 - Finding a place in the curriculum
-- Physical facilities
+- Finding a hackerspace
 - [University patents](http://www.innovationexcellence.com/blog/2010/12/19/open-source-hardware-and-university-patents/)
-- Guidelines for tenure (cf. Anthropology)
+- Guidelines for tenure (cf. UMass Amherst Anthropology)
+- Financial support for open source development
+- *"Free as in speech, not as in beer."*
+
+# Moving forward
+
+## 
+
+How might open source methods and values be useful in your work?
+
+## Default to:
+- Sharing
+- Accessibility
+- Attribution
+- Collaboration
+
+## Join in!
+- [Public Lab](http://publiclab.org)
+- [FarmHack](http://farmhack.net)
 
 
 
